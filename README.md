@@ -1,5 +1,7 @@
 
-# Previsão de Vendas com Séries Temporais
+ ![Medium (1) - Copia](https://github.com/AquilaMS/series-temporais-python/assets/26696249/7a172e7f-ee5e-44e2-a887-c6bc4d3315b2)
+ 
+ # Previsão de Vendas com Séries Temporais
 
 Esse é um projeto de estudo aplicando conceitos de estatística e econometria, especialmente **Séries Temporais** para o desenvolvimento do *backend* de um sistema de previsão de vendas. 
 
